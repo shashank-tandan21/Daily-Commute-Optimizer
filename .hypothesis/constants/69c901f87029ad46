@@ -1,0 +1,4 @@
+# file: C:\Users\shashank tandan\Desktop\kiro project\commute_optimizer\models.py
+# hypothesis_version: 6.150.0
+
+[0.0, 2.0, -180, 100, 180, 'Duration in minutes', 'Overall stress level', 'arrival_time', 'comfort_weight', 'cost_weight', 'cycling', 'default_profile', 'departure_time', 'driving', 'preference_profiles', 'public_transit', 'reliability_weight', 'rideshare', 'time_weight', 'walking']

@@ -1,0 +1,4 @@
+# file: C:\Users\shashank tandan\Desktop\kiro project\commute_optimizer\config.py
+# hypothesis_version: 6.150.0
+
+[2.0, 100, '.env', 'INFO', 'utf-8']
